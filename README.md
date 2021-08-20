@@ -18,3 +18,7 @@ About Me
 📫 How to reach me at my instagram @ahmdaka06
 
 ⚙️ I use daily .php .js .html .css 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmdaka06&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdaka06&show_icons=true&theme=dracula)]
