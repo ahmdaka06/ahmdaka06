@@ -1,5 +1,5 @@
 Hi Everyone 👋
-I Am A 19 Year Old Newbie Full Stack Web Developer From Indonesia.
+I Am A Newbie Full Stack Web Developer From Indonesia.
 
 New To Github Hehe...
 
