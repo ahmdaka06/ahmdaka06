@@ -12,6 +12,7 @@ Backend-focused Full Stack Developer passionate about building scalable systems,
 ## Tech Stack
 **Backend:** PHP, Laravel, Codeigniter,  Golang, Node.js, Express.js, NestJS, AdonisJS, Prisma, DrizzleORM, TypeScript
 **Frontend:** CSS, Bootstrap, React.js, Next.js, Vue.js, Alpine.js, Tailwind CSS, JavaScript 
+**Database**: MySQL, PostgreSQL, MongoDB
 **DevOps:** Docker, GitHub Actions, Linux, Git, VPS/Hosting  
 **Other:** REST API, JWT, WebSocket
 
