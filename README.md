@@ -1,24 +1,31 @@
-Hi Everyone 👋
-I Am A Newbie Full Stack Web Developer From Indonesia.
+# Hi there, I'm Ahmad Andika Khoirul Amin 👋
 
-New To Github Hehe...
+Backend-focused Full Stack Developer passionate about building scalable systems, payment integrations, and real-world business applications.
 
-About Me
+## About Me
+- 💻 Web Developer since 2019
+- 🎓 Informatics Engineering student
+- ⚙️ Focused on backend, API, and system architecture
+- 🚀 Experienced in payment systems, ticketing, top-up platforms, and automation tools
+- 📚 Always learning and improving in software engineering
 
-👋 Hi, I’m Ahmad Andika Khoirul Amin
+## Tech Stack
+**Backend:** PHP, Laravel, Codeigniter,  Golang, Node.js, Express.js, NestJS, AdonisJS, Prisma, DrizzleORM, TypeScript
+**Frontend:** CSS, Bootstrap, React.js, Next.js, Vue.js, Alpine.js, Tailwind CSS, JavaScript 
+**DevOps:** Docker, GitHub Actions, Linux, Git, VPS/Hosting  
+**Other:** REST API, JWT, WebSocket
 
-👀 I’m interested in Web Developer
+## Current Interests
+- Backend Engineering
+- CI/CD & Deployment
+- Scalable Web Applications
+- Performance & Reliability
+- API Integration
+- Payment Gateway System
+- Performance Optimization
+- Transaction System
+- Automation Tools
 
-🌱 I’m currently learning Full Stack Web Developer
-
-😄 I'm natively speak Indonesian.
-
-🍎 Beginner mindset (Open To Learning)
-
-📫 How to reach me at my instagram @ahmdaka06
-
-⚙️ I use daily .php .js .html .css 
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmdaka06&show_icons=true&theme=dracula)
-
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdaka06&show_icons=true&theme=dracula)]
+## Connect With Me
+- LinkedIn: [linkedin.com/in/ahmadandika](https://www.linkedin.com/in/ahmadandika)
+- Email: ahmdaka06@gmail.com
