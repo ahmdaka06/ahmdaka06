@@ -3,7 +3,6 @@
 Backend-focused Full Stack Developer passionate about building scalable systems, payment integrations, and real-world business applications.
 
 ## About Me
-- 💻 Web Developer since 2019
 - 🎓 Informatics Engineering student
 - ⚙️ Focused on backend, API, and system architecture
 - 🚀 Experienced in payment systems, ticketing, top-up platforms, and automation tools
